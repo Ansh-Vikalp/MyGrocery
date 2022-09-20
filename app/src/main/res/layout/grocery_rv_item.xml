@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/Widget.MaterialComponents.CardView"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    app:cardCornerRadius="9dp"
+    app:cardElevation="8dp"
+    app:strokeColor="@color/lig_back"
+    app:strokeWidth="1.5dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/idLL1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="8.5"
+            tools:ignore="UselessParent">
+
+            <TextView
+                android:id="@+id/idTVItemName"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:layout_weight="3.5"
+                android:padding="4dp"
+                android:text="@string/item_name"
+                android:textAppearance="?attr/textAppearanceHeadline6" />
+
+            <TextView
+                android:id="@+id/idTVQuantity"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="3dp"
+                android:layout_weight="2"
+                android:padding="4dp"
+                android:text="@string/quantity_fixed"
+                android:textAppearance="?attr/textAppearanceBody1" />
+
+            <TextView
+                android:id="@+id/idTVRate"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="3dp"
+                android:layout_weight="2"
+                android:padding="4dp"
+                android:text="@string/rate"
+                android:textAppearance="?attr/textAppearanceBody1" />
+
+            <ImageView
+                android:id="@+id/idTVDelete"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:layout_weight="1.2"
+                android:contentDescription="@string/delete"
+                android:padding="4dp"
+                android:src="@drawable/ic_delete"
+                app:tint="@android:color/holo_red_dark" />
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/idTVHeading"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/idLL1"
+            android:layout_marginStart="3dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginEnd="3dp"
+            android:layout_marginBottom="3dp"
+            android:layout_toLeftOf="@id/idTVTotalAmt"
+            android:padding="4dp"
+            android:text="Total cost"
+            android:textAppearance="?attr/textAppearanceBody2"/>
+
+        <TextView
+            android:id="@+id/idTVTotalAmt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/idLL1"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginStart="3dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginEnd="3dp"
+            android:layout_marginBottom="3dp"
+            android:padding="4dp"
+            android:text="Amount"
+            android:textAppearance="?attr/textAppearanceBody2"/>
+
+    </RelativeLayout>
+
+</com.google.android.material.card.MaterialCardView>
