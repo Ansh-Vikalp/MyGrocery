@@ -1,7 +1,8 @@
+
 # <img src="https://user-images.githubusercontent.com/92860846/191802601-ba7ed87b-2e9f-46db-a645-c7c1cf9d4ef9.gif" align="center" height="200" width= "200"> My Grocery
 
 
-#### ```👉 To design an app which keep track of your day to day grocery item need to be purchased  ```
+#### ```👉Aim- To design an app which keep track of your day to day grocery item need to be purchased  ```
 
 ## Acknowledgement
 
@@ -58,9 +59,11 @@ To run this project, you will need to add the following dependicies added to you
 
 ## Important Links
 
-***Demonstration Video-->***
+***Demonstration Video-->*** https://www.youtube.com/watch?v=qUZ0HFiKWXE
 
 ***Student Dashboard Link-->*** https://smartinternz.com/student-profile/feed/U0IyMDIyMDIwMjI2NA==
+
+***Google Developer profile Link--->*** https://g.dev/ansh511
 
 
 # Home Screen
@@ -89,18 +92,23 @@ To run this project, you will need to add the following dependicies added to you
 The app apk link is given below-
   
   
-<img src= "https://user-images.githubusercontent.com/92860846/191797988-e69ca0aa-4917-47a5-990c-dabdc89406b8.png" style="float:left">https://drive.google.com/file/d/1PSFs32HpgB575MQD5V7aIvy_5limo4Q4/view?usp=sharing
+<img src= "https://user-images.githubusercontent.com/92860846/191797988-e69ca0aa-4917-47a5-990c-dabdc89406b8.png" valign="middle">https://drive.google.com/file/d/1PSFs32HpgB575MQD5V7aIvy_5limo4Q4/view?usp=sharing
 
-
+ > __Suggestion from you are always welcomed 👦__
   
 ## Follow me on-
 
   
- <a href="https://www.linkedin.com/in/ansh-vikalp-37233a19b/"><img src="https://user-images.githubusercontent.com/92860846/191795057-575124fd-94e3-4aeb-a6d0-c0163ab43d09.gif" title="Click Here" height="80" width="80"></a><br>
-  <a href="https://github.com/Ansh-Vikalp"><img src="https://user-images.githubusercontent.com/92860846/191797287-690e6162-31f6-40bc-be7c-95bd2f1bc766.gif" title="Click Here" height="80" width="80"></a>
-  <a href="https://g.dev/ansh511"></a>
-  
+ <a href="https://www.linkedin.com/in/ansh-vikalp-37233a19b/"><img src="https://user-images.githubusercontent.com/92860846/191795057-575124fd-94e3-4aeb-a6d0-c0163ab43d09.gif" title="Click Here" height="70" width="70"></a><br>
  
+  <a href="https://github.com/Ansh-Vikalp"><img src="https://user-images.githubusercontent.com/92860846/191797287-690e6162-31f6-40bc-be7c-95bd2f1bc766.gif" title="Click Here" height="70" width="70"></a><br>
+  
+  
+  <a href="https://stackoverflow.com/users/16648142/ansh-vikalp"><img src="https://user-images.githubusercontent.com/92860846/192088574-083eb65b-2d20-41c2-8cb4-41ad76d1b9f4.gif" title="Click Here" height="70" width="70"></a><br>
+  
+ <a href="https://g.dev/ansh511">Google Developer Profile</a><br>
 
+ <a href="https://www.youtube.com/channel/UCVj3Jypx3oY3c5Xk6Tyu-zw"><img src="https://user-images.githubusercontent.com/92860846/192112124-9dc0a11f-af49-4343-b9ac-cbd5b27510a1.gif" title="Click Here" height="100" width="100"></a><br>
+ 
 
 
